@@ -1,0 +1,3 @@
+## Minha primeira ideia de cara foi criar este pequeno tutorial para demonstrar o qual simples é criar um cenário no katacoda.
+
+### Tive uma pequena dificuldade quanto a instalação do cli porém não foi difícil resolver. Vamos começar...
